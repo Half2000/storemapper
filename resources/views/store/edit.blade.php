@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title') Create Store @endsection
+@section('title') Edit Store @endsection
 
 @section('content')
 <div class="panel-body">    
